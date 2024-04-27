@@ -1,15 +1,15 @@
 ## Welcome to Code-Learn-Hub EdTech MERN Platform Repository!
 
-This expansive repository serves as the core of the groundbreaking CodePlay EdTech platform – a dynamic MERN stack application poised to revolutionize online education. With a seamless fusion of technology and learning, CodePlay empowers both educators and learners, fostering a vibrant educational community.
+This expansive repository serves as the core of the groundbreaking Code-Learn-Hub EdTech platform – a dynamic MERN stack application poised to revolutionize online education. With a seamless fusion of technology and learning, Code-Learn-Hub empowers both educators and learners, fostering a vibrant educational community.
 
 ## Contributor
 The contributor of this project is : https://github.com/ShivamUpadhyay20. Shivam and i make this project together for the students as well as instructor to promote the education.
 
 ## Key Highlights
 
-**1. MERN Stack Foundation** : At the heart of CodePlay lies its robust MERN (MongoDB, Express.js, React, Node.js) stack architecture. This technological choice ensures scalability, performance, and maintainability, promising a smooth and immersive user experience.
+**1. MERN Stack Foundation** : At the heart of Code-Learn-Hub lies its robust MERN (MongoDB, Express.js, React, Node.js) stack architecture. This technological choice ensures scalability, performance, and maintainability, promising a smooth and immersive user experience.
 
-**2. Instructor Empowerment** : Instructors form the backbone of CodePlay. Through this platform, educators can effortlessly curate and publish their courses, leveraging an intuitive interface for uploading course materials and videos. CodePlay's user-friendly content creation tools provide instructors with the flexibility to focus on delivering top-tier education.
+**2. Instructor Empowerment** : Instructors form the backbone of CodePlay. Through this platform, educators can effortlessly curate and publish their courses, leveraging an intuitive interface for uploading course materials and videos. Code-Learn-Hub's user-friendly content creation tools provide instructors with the flexibility to focus on delivering top-tier education.
 
 **3. Interactive Learning Experience** : Students enrolled on Code-Learn-Hub gain access to a diverse array of courses spanning topics from web development to data science. With interactive video lectures, Code-Learn-Hub offers an engaging and comprehensive learning journey.
 
@@ -21,7 +21,7 @@ The contributor of this project is : https://github.com/ShivamUpadhyay20. Shivam
 
 ## Technology Stack
 
-CodePlay harnesses the following technologies:
+Code-Learn-Hub harnesses the following technologies:
 
 #### React JS, Tailwind CSS
     - Front-End Development.
