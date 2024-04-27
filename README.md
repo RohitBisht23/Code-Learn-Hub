@@ -34,7 +34,7 @@ CodePlay harnesses the following technologies:
 
 ## Acknowledgements
 
-Code-Learn-Hub is the brainchild of Rohit Bisht and Shivam Upadhyay https://github.com/ShivamUpadhyay20. Special gratitude to Love Babbar and CodeHelp for their invaluable support and guidance.
+Code-Learn-Hub is the brainchild of Rohit Bisht and Shivam Upadhyay https://github.com/ShivamUpadhyay20.
 
 ## Contact Information
 
