@@ -44,7 +44,7 @@ function App() {
   useEffect(() => {
     const fetchUserProfile = async () => {
       try {
-        const response = await axios.create("http://localhost:4000/api/v1/auth");
+        const response = await axios.create("https://code-learn-hub.vercel.app//api/v1/auth");
         console.log(response.data); // Log the fetched user profile data
         // Dispatch an action or handle the response as needed
       } catch (error) {
