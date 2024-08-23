@@ -45,7 +45,8 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "*",
+    origin: ["https://code-learn-hub-front-end.vercel.app/"],
+    method : ["POST", "GET", "PUT", "DELETE"],
     credentials: true,
   })
 );
