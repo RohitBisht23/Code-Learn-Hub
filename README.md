@@ -2,9 +2,6 @@
 
 This expansive repository serves as the core of the groundbreaking Code-Learn-Hub EdTech platform – a dynamic MERN stack application poised to revolutionize online education. With a seamless fusion of technology and learning, Code-Learn-Hub empowers both educators and learners, fostering a vibrant educational community.
 
-## Contributor
-The contributor of this project is : https://github.com/ShivamUpadhyay20. Shivam and i make this project together for the students as well as instructor to promote the education.
-
 ## Key Highlights
 
 **1. MERN Stack Foundation** : At the heart of Code-Learn-Hub lies its robust MERN (MongoDB, Express.js, React, Node.js) stack architecture. This technological choice ensures scalability, performance, and maintainability, promising a smooth and immersive user experience.
