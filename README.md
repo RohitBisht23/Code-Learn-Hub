@@ -32,10 +32,6 @@ Code-Learn-Hub harnesses the following technologies:
 #### MongoDB
     - Database Management.
 
-## Acknowledgements
-
-Code-Learn-Hub is the brainchild of Rohit Bisht and Shivam Upadhyay https://github.com/ShivamUpadhyay20.
-
 ## Contact Information
 
 For inquiries or suggestions regarding this project, please feel free to reach out via email at rohitbisht0911@gmail.com
